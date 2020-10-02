@@ -15,3 +15,6 @@ Sample website with plenty of files for demos and simples examples for git train
 A simple web project, can deploy on any web server
 
 ## How to contribute
+
+## Copyright
+2020 Git.training
