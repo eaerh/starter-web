@@ -1,7 +1,7 @@
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work and how they work together
-
+Adding a line for rebasing example.
 ## Introduction
 
 An example showing different parts of the git repo and various commands using a project.
