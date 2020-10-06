@@ -20,4 +20,4 @@ A simple web project, can deploy on any web server
 Please fork this repo and then issue Pull request for review
 
 ## Copyright
-2020 Git.training
+2020 Git.training. All rights reserved.
